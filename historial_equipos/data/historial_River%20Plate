@@ -1,0 +1,85 @@
+equipo,jugados,ganados,perdidos,empatados,diferencia,gf,gc
+Boca Juniors,200,64,74,62,-10,258,275
+San Lorenzo,186,72,52,62,20,313,249
+Velez,179,86,49,44,37,296,207
+Racing Club,173,89,41,43,48,318,235
+Independiente,172,73,52,47,21,264,210
+Estudiantes (LP),166,92,37,37,55,309,179
+Huracan,156,78,29,49,49,282,170
+Newells,156,73,42,41,31,241,185
+Gimnasia (LP),156,83,33,40,50,295,173
+Rosario Central,148,78,29,41,49,273,172
+Argentinos,128,69,26,33,43,240,151
+Ferro,127,73,23,31,50,242,108
+Lanus,119,67,23,29,44,233,129
+Platense,116,72,18,26,54,247,132
+Chacarita,106,62,18,26,44,217,104
+Banfield,87,46,18,23,28,175,112
+Atlanta,83,53,12,18,41,205,89
+Colon,70,35,14,21,21,125,87
+Quilmes,67,40,10,17,30,145,72
+Union,65,27,14,24,13,96,73
+Tigre,62,43,6,13,37,157,62
+Talleres (C),55,28,14,13,14,90,56
+Belgrano,36,22,7,7,15,71,30
+Dep Español,32,21,5,6,16,61,26
+Instituto,31,15,7,9,8,50,35
+Arsenal,27,13,5,9,8,46,24
+Gimnasia (J),25,16,3,6,13,55,16
+All Boys,21,13,5,3,8,44,17
+San Martin (T),20,15,1,4,14,41,18
+Olimpo,19,11,4,4,7,29,20
+Temperley,18,11,3,4,8,45,17
+Nueva Chicago,17,5,5,7,0,25,22
+Godoy Cruz,17,7,6,4,1,26,18
+Racing (C),16,10,4,2,6,32,12
+Dep Mandiyu (C),16,9,1,6,8,33,18
+Talleres (RdE),14,12,0,2,12,42,11
+Los Andes,12,8,2,2,6,23,10
+Sarmiento (J),11,7,1,3,6,21,12
+Atl Rafaela,9,6,0,3,6,16,4
+San Martin (SJ),7,4,2,1,2,12,7
+San Martin (M),7,5,2,0,3,22,10
+Chaco For Ever,7,6,0,1,6,18,5
+Cipolletti (RN),7,7,0,0,7,26,10
+Gimnasia (S),6,4,0,2,4,10,2
+Almagro,6,5,1,0,4,19,11
+Atl Tucuman,5,3,0,2,3,10,4
+Ind Rivadavia,5,3,2,0,1,17,6
+Dep Armenio,4,2,1,1,1,8,6
+Loma Negra,4,1,0,3,1,1,0
+Gimnasia (M),4,2,1,1,1,6,4
+San Lorenzo (MdP),4,3,1,0,2,13,5
+Def y Justicia,4,2,1,1,1,9,5
+Central Cordoba (R),4,3,1,0,2,11,6
+Kimberley (MdP),3,1,1,1,0,7,5
+Union Talleres(RdE)-Lanus,3,3,0,0,3,14,1
+Patronato,3,1,2,0,-1,3,4
+Atl Ledesma (J),2,2,0,0,2,4,0
+Argentino de Quilmes,2,2,0,0,2,9,1
+Andino (LR),2,1,1,0,0,3,2
+Alvarado,2,2,0,0,2,6,0
+Altos Hornos Zapla,2,1,0,1,1,5,2
+Estudiantes (RC),2,1,0,1,1,5,4
+Union Atlanta-Argentinos,2,2,0,0,2,10,2
+Sarmiento (CH),2,1,0,1,1,4,1
+Aldosivi,2,1,0,1,1,2,1
+Atl Uruguay (CU),2,2,0,0,2,11,0
+Huracan (C),2,2,0,0,2,5,2
+Huracan (SR),2,1,0,1,1,10,1
+Huracan (TA),2,1,0,1,1,1,0
+Guarani (M),2,1,0,1,1,6,2
+San Telmo,2,2,0,0,2,12,3
+Jorge Newbery (J),2,1,1,0,0,3,2
+Juventud Antoniana (S),2,1,0,1,1,2,1
+Estudiantes (BA),2,0,1,1,-1,2,3
+Dep Italiano,2,2,0,0,2,7,2
+Tiro Federal,2,2,0,0,2,7,0
+Dep Moron,2,2,0,0,2,6,1
+Crucero (M),1,1,0,0,1,1,0
+Central Cordoba (SdE),1,1,0,0,1,1,0
+Huracan (IW),1,1,0,0,1,3,1
+Independiente (T),1,1,0,0,1,8,0
+Desamparados,1,1,0,0,1,7,0
+Don Orione (CH),1,1,0,0,1,3,0
+Bartolome Mitre (M),1,1,0,0,1,7,1
