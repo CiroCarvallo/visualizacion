@@ -1,2 +1,2 @@
 # visualizacion
-repositorio para practicar librerias de python como pandas, numpy y matplotlib
+repositorio para aprender librerias de python como pandas, numpy y matplotlib
